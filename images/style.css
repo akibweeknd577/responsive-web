@@ -1,0 +1,87 @@
+
+.navbar-brand img{
+height: 80px;
+
+}
+
+.nav-link{
+text-transform: uppercase;
+
+}
+
+.nav-link:hover{
+    color: rgb(22, 22, 187) !important;
+    border-top: 1px solid blue;
+}
+
+.navbar-nav a{
+
+    transition: all.5s ease !important;
+}
+
+.navbar-nav a:hover {
+    background:lightblue;  
+    padding: 10px;
+}
+
+.carousel-inner .carousel-item{
+
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+}
+
+.iframe{
+position: relative;
+width: 100%;
+padding-bottom: 56.25%;
+
+}
+
+.iframe >*{
+display: block;
+position: absolute;
+top: 0;
+right: 0;
+bottom: 0;
+left: 0;
+padding: 0;
+margin: 0;
+height: 100%;
+width: 100%;
+}
+
+.quiek-link li a {
+color: white;
+
+}
+
+.quiek-link li a:hover {
+    color:red; }
+    
+   
+
+.fa {
+
+background-color: white;
+height: 30px;
+width: 30px;
+border-radius: 50px;
+margin: 2px;
+padding: 5px;
+
+}  
+  
+
+.fa:hover{
+color: red;
+
+}
+
+.navbar-nav{
+
+    margin-left: auto;
+}
+
+
+
